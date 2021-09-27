@@ -6,7 +6,7 @@
 
 ####  사고 싶은 거
 
-<img src="https://img.shields.io/badge/아이폰이랑 맥북-white?style=flat-square&logo=Apple&logoColor=FA243C"/>
+<img src="https://img.shields.io/badge/아이폰-white?style=flat-square&logo=Apple&logoColor=FA243C"/>
 
 
 
