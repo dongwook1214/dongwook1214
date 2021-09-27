@@ -18,4 +18,4 @@
 
 #### 앞으로 할 거
 
-<img src="https://img.shields.io/badge/-white?style=flat-square&logo=Flutter&logoColor=02569B"/>  <h1>dd</h1>
+<img src="https://img.shields.io/badge/-white?style=flat-square&logo=Flutter&logoColor=02569B"/>  <h4>플러터 공부할 거임</h4>
