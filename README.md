@@ -1,7 +1,6 @@
 
 
 ### :school:school: Hanyang Univ.Information System
-### favorite animal: :turtle:turtle
 ### coding skills: :baby:baby ^v^
 
 
