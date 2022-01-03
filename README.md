@@ -1,7 +1,7 @@
 ***
 
 #### university: Hanyang Univ.Information System
-#### My favorite animal :turtle:
+#### My favorite animal is :turtle:
 
 
 
