@@ -1,6 +1,6 @@
 
 
-### :school:school: 🦁 Hanyang Univ.Information System
+### school: 🦁 Hanyang Univ.Information System
 ### coding skills: 👶 baby ^v^
 
 
