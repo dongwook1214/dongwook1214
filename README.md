@@ -1,4 +1,4 @@
-***
+
 
 ### :school:: Hanyang Univ.Information System
 ### favorite animal: :turtle:turtle:turtle:
