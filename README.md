@@ -1,7 +1,7 @@
 
 
-### :school:school: 🦁:Hanyang Univ.Information System
-### coding skills: :baby:baby ^v^
+### :school:school: 🦁 Hanyang Univ.Information System
+### coding skills: 👶 baby ^v^
 
 
 
