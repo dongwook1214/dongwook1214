@@ -1,8 +1,8 @@
 
 
 ### :school:: Hanyang Univ.Information System
-### favorite animal: :turtle:turtle:turtle:
-### coding lavel: :baby:baby:baby: ^v^
+### favorite animal: :turtle:turtle
+### coding skills: :baby:baby ^v^
 
 
 
