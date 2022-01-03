@@ -4,6 +4,7 @@
 ### coding skills: 👶 baby ^v^
 <a href="https://www.youtube.com/channel/UCHgXaDc_hKZGlWuHrTuKE8w" target="_blank"><img src="https://img.shields.io/badge/youtube?style=for-the-badge&logo=YouTube&logoColor=FF0000"></a>
 <img src="https://img.shields.io/badge/youtube?style=for-the-badge&logo=YouTube&logoColor=FF0000">
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 
 
 ***
