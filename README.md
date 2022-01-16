@@ -2,7 +2,7 @@
 
 ### coding skills: 🧒 child ^v^
 
-[![Solved.ac profile](http://mazassumnida.wtf/api/generate_badge?boj=dongwook1214)](https://solved.ac/dongwook1214)
+[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dongwook1214)](https://solved.ac/dongwook1214)
 
 ### youtube: https://www.youtube.com/channel/UCHgXaDc_hKZGlWuHrTuKE8w
 
