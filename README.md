@@ -1,9 +1,6 @@
 ### school: 🦁 Hanyang Univ.Information System
-
-### coding skills: 🧒 child ^v^
-
 <img align='right' src='http://mazassumnida.wtf/api/v2/generate_badge?boj=dongwook1214'>
-
+### coding skills: 🧒 child ^v^
 
 
 ### youtube: https://www.youtube.com/channel/UCHgXaDc_hKZGlWuHrTuKE8w
