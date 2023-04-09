@@ -4,6 +4,12 @@
 
 ### youtube: https://www.youtube.com/channel/UCHgXaDc_hKZGlWuHrTuKE8w
 
+### skill: Flutter, node, solidity
+
+### goal: create new system
+
+I'm interested in security, networks, blockchain.
+
 <br>
 <img align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=dongwook1214&layout=compact'>
 
