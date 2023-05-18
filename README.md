@@ -12,8 +12,6 @@
 
 I'm interested in security, networks, blockchain.
 
-<br>
-<img align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=dongwook1214&layout=compact'>
-
-<br><br>
-<img align='center' src='https://github-readme-stats.vercel.app/api?username=dongwook1214&show_icons=true&theme=radical'>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dongwook1214&theme=vue&hide_border=true&locale=en&date_format=M%20j%5B%2C%20Y%5D" width = "600">
+</p>
